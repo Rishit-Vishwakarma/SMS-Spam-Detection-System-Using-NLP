@@ -37,8 +37,6 @@ The model was deployed on the web using Streamlit. The user interface has a simp
 
 To try out the SMS Spam Detection model, visit [here](https://spam-detection-system.streamlit.app/).
 
-To try out the SMS Spam Detection model, visit [here](https://sms-spam-detection-system-using-nlp-kxb6idugp6stybkhmmyqgc.streamlit.app/).
-
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
 
