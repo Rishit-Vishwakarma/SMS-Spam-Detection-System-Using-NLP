@@ -34,7 +34,10 @@ Multiple classifier models were tried, including NaiveBayes, random forest, KNN,
 The model was deployed on the web using Streamlit. The user interface has a simple input box where the user can input a message, and the model will predict whether it is spam or not spam.
 
 ## Demo
+
 To try out the SMS Spam Detection model, visit [here](https://spam-detection-system.streamlit.app/).
+
+To try out the SMS Spam Detection model, visit [here](https://sms-spam-detection-system-using-nlp-kxb6idugp6stybkhmmyqgc.streamlit.app/).
 
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
